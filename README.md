@@ -1,1 +1,1 @@
-Uh, I think turtles are cool.
+Mami is best girl.
