@@ -1,10 +1,8 @@
 こんにちは!
 
-私はブリティッシュコロンビア大学の一回生です。
+私はブリティッシュコロンビア大学の一回生です。日本語は楽しいですから、第二言語として日本語を勉強しています。
 
-あの... 日本語を勉強しますのは楽しいから、日本語の方がプログラミングよりいいです。
-
-亀が好きです。
+あの... 亀が好きです。
 
 [![Jimmy's github stats](https://github-readme-stats.vercel.app/api?username=marethyu)](https://github.com/anuraghazra/github-readme-stats)
 
