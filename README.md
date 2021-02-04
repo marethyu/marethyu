@@ -1,10 +1,10 @@
 こんにちは!
 
-俺は大学の一回生だ。
+私はブリティッシュコロンビア大学の一回生です。
 
-あの... 日本語を勉強するのは楽しいから、日本語の方がプログラミングよりいい。
+あの... 日本語を勉強しますのは楽しいから、日本語の方がプログラミングよりいいです。
 
-亀が好き。
+亀が好きです。
 
 [![Jimmy's github stats](https://github-readme-stats.vercel.app/api?username=marethyu)](https://github.com/anuraghazra/github-readme-stats)
 
