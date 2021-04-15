@@ -1,6 +1,6 @@
 こんにちは!
 
-日本語を学んでいる大学生です。ウェアブーになってしまっています。
+日本語を学んでいる大学生です。コロナのせいでウェアブーになってしまっています。
 
 [![Jimmy's github stats](https://github-readme-stats.vercel.app/api?username=marethyu)](https://github.com/anuraghazra/github-readme-stats)
 
